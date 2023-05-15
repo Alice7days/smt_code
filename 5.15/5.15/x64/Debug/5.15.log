@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\cworkspace\5.15\5.15\源.cpp(18,11): error C2440: “初始化”: 无法从“int *”转换为“char *”
+D:\cworkspace\5.15\5.15\源.cpp(18,11): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
